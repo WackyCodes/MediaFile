@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="status_bar_scrim">@color/system_ui_scrim_light</color>
+    <color name="nav_bar_scrim">@color/system_ui_scrim_dark</color>
+    <!--navigationBar icons cannot be light so we can only use dark scrim-->
+</resources>

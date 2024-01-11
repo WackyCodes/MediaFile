@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="system_ui_scrim_light">#E3ffffff</color>
+    <color name="system_ui_scrim_dark">#C3000000</color>
+
+    <color name="status_bar_scrim">@color/system_ui_scrim_light</color>
+    <color name="nav_bar_scrim">@color/status_bar_scrim</color>
+
+    <color name="colorBlack">#FF000000</color>
+    <color name="colorGray">#999CA0</color>
+    <color name="colorYellow">#FFC817</color>
+    <color name="colorGreen">#27AE60</color>
+    <color name="colorRed">#EB5757</color>
+
+    <color name="colorPurple">#BB6BD9</color>
+    <color name="colorDark">#696969</color>
+    <color name="colorGrayLight">#D3D3D3</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorOrange">#FFA500</color>
+    <color name="colorGold">#FFD700</color>
+    <color name="colorMilky">#FDFFF5</color>
+    <color name="colorTransparent">#00000000</color>
+
+
+    <!-- ~~~~~~~ Theme : Color Name Default ~~~~~~~ -->
+    <color name="colorPrimary">#0567FE</color>
+    <color name="colorPrimaryVariant">#0567FE</color>
+    <color name="colorPrimaryLight">#3679DF</color>
+    <color name="colorPrimaryFaded">#C36893D5</color>
+    <color name="colorOnPrimary">#FFFFFF</color>
+
+    <color name="colorSecondary">#19E3F2</color>
+    <color name="colorSecondaryVariant">#20C0CC</color>
+    <color name="colorSecondaryLight">#80CBD1</color>
+    <color name="colorSecondaryFaded">#9F8BDDE3</color>
+    <color name="colorOnSecondary">@color/colorBlack</color>
+
+    <!--    <color name="colorAccent">#F77C7A</color>-->
+    <!--    <color name="colorAccentLight">#DC9392</color>-->
+    <color name="colorAccent">#2B90A6</color>
+    <color name="colorAccentLight">#87C6D3</color>
+    <color name="colorAccentBackground">@color/colorWhite</color>
+    <color name="colorOnAccent">@color/colorWhite</color>
+
+
+</resources>
